@@ -2,7 +2,7 @@
 
 Способ запуска:
 
-	1) Клонировать репозиторий https://github.com/Alexandr163r/Scraper_habr.git
+	1) Клонировать репозиторий https://github.com/Alexandr163r/Parsing.git
 
 	2) Создать виртуальное окружение с python 3.10
 	
