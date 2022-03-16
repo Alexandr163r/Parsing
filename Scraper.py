@@ -60,7 +60,7 @@ def get_vacancy(html):
 
 
 def save_vacancy(items, path):
-    with open(path, "w", newline="") as file:
+    with open(path, "w", newline="", encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(
             [
